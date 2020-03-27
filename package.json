@@ -1,0 +1,23 @@
+{
+  "name": "alu",
+  "version": "1.1.0",
+  "description": "alu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniValine/alu.git"
+  },
+  "keywords": [
+    "alu",
+	"MiniValine",
+  ],
+  "author": "MHuiG",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MiniValine/alu/issues"
+  },
+  "homepage": "https://github.com/MiniValine/alu#readme"
+}
