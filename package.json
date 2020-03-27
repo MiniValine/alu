@@ -1,23 +1,23 @@
 {
-  "name": "alu",
+  "name": "alus",
   "version": "1.1.0",
-  "description": "alu",
+  "description": "alus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiniValine/alu.git"
+    "url": "git+https://github.com/MiniValine/alus.git"
   },
   "keywords": [
-    "alu",
+    "alus",
 	"MiniValine",
   ],
   "author": "MHuiG",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/MiniValine/alu/issues"
+    "url": "https://github.com/MiniValine/alus/issues"
   },
-  "homepage": "https://github.com/MiniValine/alu#readme"
+  "homepage": "https://github.com/MiniValine/alus#readme"
 }
