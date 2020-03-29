@@ -1,7 +1,7 @@
 
-# <div align="center">hexo-next-minivaline</div>
+# <div align="center">MiniValine</div>
 
-First of all, thanks for taking your time to contribute and help make our project even better than it is today! The following is a set of guidelines for contributing to [hexo-next-minivaline](https://github.com/hexo-next-minivaline) and its libs submodules. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+First of all, thanks for taking your time to contribute and help make our project even better than it is today! The following is a set of guidelines for contributing to [MiniValine](https://github.com/MiniValine) and its libs submodules. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Table Of Contents
 
@@ -31,7 +31,7 @@ First of all, thanks for taking your time to contribute and help make our projec
 
 If you just have a question, you'll get faster results by checking the FAQs for a list of common questions and problems
 
-Also, you can perform a [cursory search](https://github.com/MiniValine/hexo-next-minivaline/search?q=&type=Issues&utf8=%E2%9C%93) to see if the problem has already been reported or solved. You don't want to duplicate effort. You might be able to find the cause of the problem and fix things yourself, or add comments to the existed issue.
+Also, you can perform a [cursory search](https://github.com/MiniValine/MiniValine/search?q=&type=Issues&utf8=%E2%9C%93) to see if the problem has already been reported or solved. You don't want to duplicate effort. You might be able to find the cause of the problem and fix things yourself, or add comments to the existed issue.
 
 #### Quick debug instructions
 
@@ -44,7 +44,7 @@ Before submitting an Issue on GitHub, you can follow the steps below to debug:
 
 If you get an error message from your browser, please search in Google / Stackoverflow / GitHub Issues, or report it to us when submitting a new Issue.
 
-If you find a bug in the source code, most importantly, please check carefully if you can reproduce the problem [in the latest release version of hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline/releases/latest). Then, you can help us by [Reporting Bugs](#reporting-bugs) or [Suggesting Enhancements](#suggesting-enhancements) to our [Repository](https://github.com/MiniValine/hexo-next-minivaline). Even better, you can [submit a Pull Request](#submitting-a-pull-request) with a fix.
+If you find a bug in the source code, most importantly, please check carefully if you can reproduce the problem [in the latest release version of MiniValine](https://github.com/MiniValine/MiniValine/releases/latest). Then, you can help us by [Reporting Bugs](#reporting-bugs) or [Suggesting Enhancements](#suggesting-enhancements) to our [Repository](https://github.com/MiniValine/MiniValine). Even better, you can [submit a Pull Request](#submitting-a-pull-request) with a fix.
 
 ### Reporting Bugs
 

@@ -1,6 +1,6 @@
-# <div align="center">hexo-next-minivaline</div>
+# <div align="center">MiniValine</div>
 
-A CODE_OF_CONDUCT dictates how conversation during code updates, issue communication, and pull requests should happen within [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline) repository.  We expect all users to show respect and courtesy to others through our repositories. Anyone violating these rules will not be reviewed and will be blocked and expelled from our repositories immediately upon discovery.
+A CODE_OF_CONDUCT dictates how conversation during code updates, issue communication, and pull requests should happen within [MiniValine](https://github.com/MiniValine/MiniValine) repository.  We expect all users to show respect and courtesy to others through our repositories. Anyone violating these rules will not be reviewed and will be blocked and expelled from our repositories immediately upon discovery.
 
 ## Table Of Contents
 
@@ -75,7 +75,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 You may get in touch with the maintainer team through any of the following methods:
 
-* Through Email
+* Through Email: thepie@foxmail.com
 
 ## Attribution
 
