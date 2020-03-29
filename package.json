@@ -1,8 +1,8 @@
 {
   "name": "alus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "alus",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
