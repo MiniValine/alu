@@ -21,7 +21,7 @@ https://cdn.jsdelivr.net/npm/alus
 ```
 
 ```
-https://cdn.jsdelivr.net/MiniValine/alus
+https://cdn.jsdelivr.net/gh/MiniValine/alus
 ```
 
 ## Feedback
