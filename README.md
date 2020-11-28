@@ -24,7 +24,7 @@ https://cdn.jsdelivr.net/npm/alus
 https://cdn.jsdelivr.net/gh/MiniValine/alus
 ```
 
-## [MiniValine FAQs](https://github.com/MiniValine/MiniValine/blob/master/.github/FAQ.md)
+## [MiniValine FAQs](https://minivaline.js.org/docs/en/#/FAQ)
 
 ## Feedback
 
